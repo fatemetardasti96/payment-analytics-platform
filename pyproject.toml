@@ -1,0 +1,16 @@
+[project]
+name = "softgame"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "boto3>=1.35.0",
+    "duckdb>=1.5.3",
+    "fastapi>=0.136.3",
+    "jupyter>=1.1.1",
+    "notebook>=7.5.7",
+    "pyarrow>=24.0.0",
+    "pyspark>=4.1.2",
+    "requests>=2.34.2",
+]

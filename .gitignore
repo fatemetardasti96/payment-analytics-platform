@@ -1,0 +1,30 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# Terraform
+.terraform*
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+.vscode/
+
+# Data lake outputs
+data/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+*.csv
