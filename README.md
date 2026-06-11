@@ -1,3 +1,7 @@
+# Demo Payment Analytics Platform
+
+For comprehensive design decisions and doc please refer to the [architecture docs](docs/adr/0001-payments-analytics-architecture.md)
+
 ### How to run the app to generate data
 
 0. export environment variables 
